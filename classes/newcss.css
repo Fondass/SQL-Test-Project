@@ -1,0 +1,26 @@
+.block
+{
+    height: 60px;
+    width: 60px;
+    display: block;
+}
+
+.yellow
+{
+    background-color: yellow;
+}
+
+.red
+{
+    background-color: red;
+}
+
+.blue
+{
+    background-color: blue;
+}
+
+.green
+{
+    background-color: green;
+}
